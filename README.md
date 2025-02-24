@@ -38,12 +38,6 @@ I am actively **expanding my skillset into IT Automation and Data Engineering** 
 
 ---
 
-## 📊 GitHub Stats
-
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marky224&show_icons=true&theme=radical)
-
----
-
 ## 📬 Let's Connect!
 
 Feel free to reach out if you want to collaborate on IT automation, data projects, or just chat about technology!
