@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mark Marquez!
+# 👋 Hi there, I'm Mark!
 
 🎯 **Network & Systems Administrator | IT Automation | Data Engineering Enthusiast**  
 📍 San Antonio, TX  
