@@ -29,6 +29,7 @@ I am actively **expanding my skillset into IT Automation and Data Engineering** 
 
 **Networking & Infrastructure:**  
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/-Ansible-D00000?style=flat-square&logo=ansible&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-29ABE2?style=flat-square&logo=ubiquiti&logoColor=white) ![DNS](https://img.shields.io/badge/-DNS-0078D6?style=flat-square&logo=windows&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN-0081C6?style=flat-square&logo=wireguard&logoColor=white)
+
 **Cloud Platforms & Tools:**  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)  
 
