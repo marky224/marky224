@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-Certified IT professional with **5+ years** of experience in **IT infrastructure**, **cybersecurity**, and **SaaS solutions** — with a proven track record in optimizing workflows, enhancing security, and driving IT process improvements to support business growth.
+Certified IT professional with experience in **IT infrastructure**, **cybersecurity**, and **SaaS solutions** — with a proven track record in optimizing workflows, enhancing security, and driving IT process improvements to support business growth.
 
 💻 I specialize in:
 - **IT Automation**: Using Python, PowerShell, and Bash to streamline workflows and reduce manual workloads.
