@@ -17,9 +17,6 @@ Certified IT professional with experience in **IT infrastructure**, **cybersecur
 - **Networking & Systems**: Managing Windows & Linux environments, cloud platforms (Azure, AWS, Microsoft 365), and optimizing network infrastructure.
 - **IT Process Improvements**: Overhauling outdated IT systems, migrating data to cloud solutions, and driving operational efficiency.
 
-🚀 **Currently Exploring**:  
-I am actively **expanding my skillset into IT Automation and Data Engineering** — building ETL pipelines, working with large datasets, and diving deeper into tools like **Python**, **Linux**, **Kubernetes**, **Ansible**, **Virtualization** and **SQL** for endpoint management, data transformation and visualization.
-
 ---
 
 ## 🛠️ Tech Stack
