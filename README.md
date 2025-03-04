@@ -14,7 +14,7 @@ Certified IT professional with experience in **IT infrastructure**, **cybersecur
 💻 I specialize in:
 - **IT Automation**: Using Python, PowerShell, and Bash to streamline workflows and reduce manual workloads.
 - **Cybersecurity**: Implementing multi-layered security measures (IAM, MFA, EDR, Backups) to comply with Cyber Insurance requirements and safeguard data.
-- **Networking & Systems**: Managing Windows & Linux environments, cloud platforms (Azure, AWS, Microsoft 365), and optimizing network infrastructure.
+- **Networking & Systems**: Managing Windows & Linux environments, cloud platforms (Azure, AWS, Microsoft 365), and optimizing network infrastructure (TCP/IP, VPNs, VLANs).
 - **IT Process Improvements**: Overhauling outdated IT systems, migrating data to cloud solutions, and driving operational efficiency.
 
 ---
