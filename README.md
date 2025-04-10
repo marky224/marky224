@@ -2,8 +2,7 @@
 
 🎯 **Network & Systems Administrator | IT Automation | Data Engineering Enthusiast**  
 📍 San Antonio, TX  
-📧 [me@markandrewmarquez.com](mailto:me@markandrewmarquez.com)  
-🌐 [Portfolio Website](https://markandrewmarquez.com/portfolio) | 💼 [LinkedIn](https://www.linkedin.com/in/markandrewmarquez) | 🐙 [GitHub](https://github.com/marky224)  
+📧 [me@markandrewmarquez.com](mailto:me@markandrewmarquez.com) | 💼 [LinkedIn](https://www.linkedin.com/in/markandrewmarquez) | 🐙 [GitHub](https://github.com/marky224)  
 
 ---
 
