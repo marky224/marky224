@@ -17,7 +17,7 @@ Certified IT professional with experience in **IT infrastructure**, **cybersecur
 - **Cybersecurity**: Implementing multi-layered security measures (IAM, MFA, RMM, EDR, Backups) to comply with Cyber Insurance requirements and safeguard data.
 - **Networking & Systems**: Managing Windows & Linux environments, cloud platforms (Azure, AWS, Microsoft 365), and optimizing network infrastructure (TCP/IP, VPNs, VLANs).
 - **IT Process Improvements**: Continuously improving IT systems, migrating data to cloud solutions, and driving operational efficiency.
-- - **AI Integration** — Utilizes agentic AI and tools like Claude & Grok to create intelligent automation.
+- **AI Integration** — Utilizes agentic AI and tools like Claude & Grok to create intelligent automation.
 
 ---
 
