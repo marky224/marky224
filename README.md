@@ -16,7 +16,7 @@ Certified IT professional with experience in **IT infrastructure**, **cybersecur
 - **IT Automation**: Using Python, PowerShell, and Bash to streamline workflows and reduce manual workloads.
 - **Cybersecurity**: Implementing multi-layered security measures (IAM, MFA, RMM, EDR, Backups) to comply with Cyber Insurance requirements and safeguard data.
 - **Networking & Systems**: Managing Windows & Linux environments, cloud platforms (Azure, AWS, Microsoft 365), and optimizing network infrastructure (TCP/IP, VPNs, VLANs).
-- **Data & Analytics**: Writing SQL queries for analytics, updating **Data dashboards**, and building ETL pipelines with Python & Pandas.
+- **Data & Analytics**: Writing SQL queries for analytics, updating data dashboards, and building ETL pipelines with Python & Pandas.
 - **IT Process Improvements**: Continuously improving IT systems, migrating data to cloud solutions, and driving operational efficiency.
 - **AI Integration** — Utilizes agentic AI and tools like Claude & Grok to create intelligent automation.
 
