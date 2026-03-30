@@ -42,7 +42,7 @@ Certified IT professional with experience in **IT infrastructure**, **cybersecur
 
 ## 📬 Let's Connect!
 
-Feel free to reach out if you want to collaborate on IT automation, data projects, or just chat about technology!
+Feel free to reach out if you want to collaborate on **IT automation**, **data engineering**, **cybersecurity improvements**, or **AI-powered workflows**, or just chat about technology!
 
 📧 **Email:** [me@markandrewmarquez.com](mailto:me@markandrewmarquez.com)  
 💼 **LinkedIn:** [linkedin.com/in/markandrewmarquez](https://www.linkedin.com/in/markandrewmarquez)  
