@@ -18,7 +18,7 @@ Certified IT professional with experience in **IT infrastructure**, **cybersecur
 - **Networking & Systems**: Managing Windows & Linux environments, cloud platforms (Azure, AWS, Microsoft 365), and optimizing network infrastructure (TCP/IP, VPNs, VLANs).
 - **Cybersecurity**: Implementing multi-layered security measures (IAM, MFA, RMM, EDR, Backups) to comply with Cyber Insurance requirements and safeguard data.
 - **IT Process Improvements**: Continuously improving IT systems, migrating data to cloud solutions, and driving operational efficiency.
-- **AI Integration** — Utilizes agentic AI and tools like Claude & Grok to create intelligent automation.
+- **AI Integration** — Utilizes agentic AI and tools like Claude, Grok, Ollama, Gemma, OpenClaw to create intelligent automation.
 
 ---
 
@@ -37,7 +37,7 @@ Certified IT professional with experience in **IT infrastructure**, **cybersecur
 ![CompTIA CySA+](https://img.shields.io/badge/-CySA+-2A3B8F?style=flat-square&logo=comptia&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/-Security+-2A3B8F?style=flat-square&logo=comptia&logoColor=white) ![SIEM](https://img.shields.io/badge/-SIEM-2C3E50?style=flat-square) ![EDR](https://img.shields.io/badge/-EDR-2C3E50?style=flat-square)
 
 **AI Tools:**  
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=xai&logoColor=white) ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-8B5CF6?style=flat-square&logo=ai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF6B00?style=flat-square&logo=ai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=xai&logoColor=white) ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-8B5CF6?style=flat-square&logo=ai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Google Gemma](https://img.shields.io/badge/-Google%20Gemma-886FBF?style=flat-square&logo=googlegemini&logoColor=white) ![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF6B00?style=flat-square&logo=ai&logoColor=white)
 
 ---
 
