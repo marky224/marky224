@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mark!
 
-🎯 **Service Desk Engineer | Network & Systems Administrator | IT Automation | Data Engineering | Neuroscience Research Assistant | AI Enthusiast**  
+🎯 **Technical Support Engineer | Network & Systems Administrator | IT Automation | Data Engineering | Neuroscience Research Assistant | AI Enthusiast**  
 📍 San Antonio, TX  
 📧 [me@markandrewmarquez.com](mailto:me@markandrewmarquez.com)
 
