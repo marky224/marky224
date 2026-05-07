@@ -19,7 +19,7 @@ Certified IT professional focused on **diagnosing and resolving** infrastructure
 - **Networking** — TCP/IP, DNS, DHCP, VLANs, VPNs (WireGuard / OpenVPN), Ubiquiti UniFi; comfortable in a network closet with a packet capture open.
 - **IT Automation** — Python, PowerShell, and Bash for ticket triage, runbook automation, and turning recurring escalations into one-click fixes.
 - **Cybersecurity (support-flavored)** — IAM, MFA, conditional access, EDR, RMM, backup verification — through the lens of incident triage and customer remediation, not just policy.
-- **AI for Support** — Building LLM-assisted diagnostic and admin tooling (see [m365-guardian](https://github.com/marky224/m365-guardian) and the TARS chat assistant on my portfolio).
+- **AI for IT & Ops** — Building LLM-driven tooling across the stack: a stateful [LangGraph agent](https://github.com/marky224/salesforce-langgraph-ai-lead-bot) (TARS) that runs multi-turn conversations into Salesforce, [M365 admin assistance](https://github.com/marky224/m365-guardian) over Microsoft Graph, a self-improving [intake-form extraction pipeline](https://github.com/marky224/intake-form-ai-pipeline) with model cascade and eval harness, and [LLM-enriched threat-intel ETL](https://github.com/marky224/Threat-Intel-ETL).
 
 ---
 
@@ -38,13 +38,13 @@ Certified IT professional focused on **diagnosing and resolving** infrastructure
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-29ABE2?style=flat-square&logo=ubiquiti&logoColor=white) ![DNS](https://img.shields.io/badge/-DNS-0078D6?style=flat-square&logo=windows&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN-0081C6?style=flat-square&logo=wireguard&logoColor=white) ![RMM](https://img.shields.io/badge/-RMM-00C4B4?style=flat-square&logo=manageiq&logoColor=white)
 
 **Cloud Platforms & Tools:**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Agentforce](https://img.shields.io/badge/-Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 **Cybersecurity:**  
 ![CompTIA CySA+](https://img.shields.io/badge/-CySA+-2A3B8F?style=flat-square&logo=comptia&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/-Security+-2A3B8F?style=flat-square&logo=comptia&logoColor=white) ![SIEM](https://img.shields.io/badge/-SIEM-2C3E50?style=flat-square) ![EDR](https://img.shields.io/badge/-EDR-2C3E50?style=flat-square)
 
 **AI Tools (for support automation):**  
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=xai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8B5CF6?style=flat-square&logo=ai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=xai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8B5CF6?style=flat-square&logo=ai&logoColor=white)
 
 ---
 
