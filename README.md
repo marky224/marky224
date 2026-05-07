@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mark!
 
-🎯 **Technical Support Engineer — Microsoft 365, Active Directory, networking, security, and IT automation. Remote.**  
+🎯 **Technical Support Engineer — Microsoft 365, Active Directory, networking, security, IT automation, and AI tooling. Remote.**  
 📍 San Antonio, TX  
 📧 [me@markandrewmarquez.com](mailto:me@markandrewmarquez.com)
 
@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-Certified IT professional focused on **diagnosing and resolving** infrastructure, identity, and SaaS issues — with a track record of automating repetitive support work, reducing escalations, and improving customer time-to-resolution across Microsoft, networking, and cloud stacks.
+Technical Support Engineer focused on **diagnosing and resolving** infrastructure, identity, and SaaS issues — with a track record of building AI/automation tooling that turns recurring escalations into one-click fixes and improves customer time-to-resolution across Microsoft, networking, and cloud stacks.
 
 🧰 What I do:
 
