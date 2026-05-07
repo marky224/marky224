@@ -14,7 +14,7 @@ Certified IT professional focused on **diagnosing and resolving** infrastructure
 
 🧰 What I do:
 
-- **Troubleshooting & Diagnostics** — Log analysis, packet captures with Wireshark, API debugging with `curl`, browser DevTools, and ticketing-system workflows to isolate root cause across messy real-world stacks. I'm also building [api-medic](https://github.com/marky224/api-medic) — a diagnostic CLI for HTTP API issues aimed at TSE triage workflows.
+- **Troubleshooting & Diagnostics** — Log analysis, packet captures with Wireshark, API debugging with `curl`, browser DevTools, and ticketing-system workflows to isolate root cause across messy real-world stacks. I shipped [api-medic](https://github.com/marky224/api-medic) — an HTTP API diagnostic tool for TSE triage workflows, available as a [web app](https://api-medic.markandrewmarquez.com/), a Chrome extension, and a CLI.
 - **Microsoft Ecosystem** — Entra ID, Exchange Online, SharePoint, Teams; on-prem AD DS and hybrid M365 scenarios; automation via Microsoft Graph API and PowerShell.
 - **Networking** — TCP/IP, DNS, DHCP, VLANs, VPNs (WireGuard / OpenVPN), Ubiquiti UniFi; comfortable in a network closet with a packet capture open.
 - **IT Automation** — Python, PowerShell, and Bash for ticket triage, runbook automation, and turning recurring escalations into one-click fixes.
@@ -50,11 +50,12 @@ Certified IT professional focused on **diagnosing and resolving** infrastructure
 
 ## 📌 Featured Work
 
-- **[api-medic](https://github.com/marky224/api-medic)** 🚧 — A diagnostic CLI for HTTP API issues, built specifically for TSEs triaging customer-reported integration problems. Takes a URL, HAR file, or `curl` command and runs network, TLS, auth, and protocol checks, then produces a structured report with plain-language findings and suggested fixes. *(Under active development.)*
+- **[intake-form-ai-pipeline](https://github.com/marky224/intake-form-ai-pipeline)** — Self-improving intake-form extraction pipeline with a three-tier model cascade, BAA-aware routing for PHI handling, and an eval harness that demonstrates F1 improvement over time.
 - **[m365-guardian](https://github.com/marky224/m365-guardian)** — Diagnoses and remediates common M365 admin issues (password resets, MFA enforcement, license drift, dormant accounts) via Microsoft Graph. Includes a weekly automated security health report with 10 checks.
-- **[Active-Directory-Domain-Controller-Provisioning](https://github.com/marky224/Active-Directory-Domain-Controller-Provisioning)** — End-to-end PowerShell automation for new Windows Server 2025 forests: hardening, static IP setup, and domain join.
-- **[thread-intent-engine](https://github.com/marky224/thread-intent-engine)** — Webhook-driven Azure Function App that turns ticket intent into M365 user-management actions via Microsoft Graph and Exchange Online.
-- **[cloudwatch-monitor](https://github.com/marky224/cloudwatch-monitor)** — Multi-endpoint AWS synthetic monitoring with per-endpoint alarms, SNS alerts, and a public status page.
+- **[salesforce-langgraph-ai-lead-bot](https://github.com/marky224/salesforce-langgraph-ai-lead-bot)** — End-to-end AI lead qualification system. A LangGraph stateful agent (TARS) runs multi-turn conversations over SSE, scores prospects deterministically, and writes enriched Leads to Salesforce — where an Agentforce agent drafts follow-up tasks, emails, and opportunities. Powers the chat assistant on my [portfolio](https://markandrewmarquez.com/).
+- **[api-medic](https://github.com/marky224/api-medic)** — An HTTP API troubleshooting tool for TSEs. Takes a URL, HAR file, or `curl` command and runs network, TLS, auth, and protocol checks, producing a structured report with plain-language findings and suggested fixes. Live as a [web app](https://api-medic.markandrewmarquez.com/), a Chrome extension, and a CLI.
+- **[cloudwatch-monitor](https://github.com/marky224/cloudwatch-monitor)** — Multi-endpoint AWS synthetic monitoring with per-endpoint alarms, SNS alerts, and a public status page. Fully managed via Terraform.
+- **[Threat-Intel-ETL](https://github.com/marky224/Threat-Intel-ETL)** — Automated ETL pipeline for AlienVault OTX threat intelligence. Extracts IoCs, transforms with Pandas, loads into PostgreSQL, visualizes in Splunk dashboards, and generates deeper insights using Grok and Claude.
 
 📂 Full project list: [Repositories](https://github.com/marky224?tab=repositories) · 🌐 Case studies & writeups: [markandrewmarquez.com/#portfolio](https://markandrewmarquez.com/#portfolio)
 
