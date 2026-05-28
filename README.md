@@ -10,16 +10,7 @@
 
 ## 💡 About Me
 
-Systems Engineer who works **cross-functionally to find the real problem**, then builds the **systems integrations, automations, and data dashboards** that boost team productivity — increasingly **AI-enabled**. Years in the weeds across Microsoft, networking, cloud, and security, partnering with teams and customers to capture the domain knowledge that turns a vague problem into a high-value solution.
-
-🧰 What I do:
-
-- **Troubleshooting, Diagnostics & Documentation** — Log analysis, packet captures with Wireshark, API debugging with `curl`, browser DevTools, and SQL debug to isolate root cause across messy real-world stacks — then document so the fix sticks and scales the team. I shipped [api-medic](https://github.com/marky224/api-medic) — an HTTP API diagnostic tool, available as a [web app](https://api-medic.markandrewmarquez.com/), a Chrome extension, and a CLI.
-- **Systems Integrations & Automation** — Python, PowerShell, Bash, and SQL with REST APIs, webhooks, and SSO wiring services together; Terraform for infrastructure as code. Measurable hour-reductions on real workflows.
-- **Data Dashboards & Data Engineering** — Data dashboards and refactored SQL so teams get real visibility, plus data engineering and enhancement that turn raw, messy sources into clean, decision-ready datasets.
-- **Systems & Cloud** — Windows and Linux, Microsoft 365 via Graph API, Azure and AWS; provision and automate Active Directory, identity in Entra ID / Auth0, and observability with CloudWatch.
-- **Networking & Cybersecurity** — TCP/IP, DNS, DHCP, VLANs, VPNs (WireGuard / OpenVPN), Ubiquiti UniFi; hardening with SIEM/EDR, MFA, IAM, threat intelligence, virtualization, and backups.
-- **AI Agents & Workflows** — Building LLM-driven tooling across the stack: a stateful [LangGraph agent](https://github.com/marky224/salesforce-langgraph-ai-lead-bot) (TARS) that runs multi-turn conversations into Salesforce, [M365 admin assistance](https://github.com/marky224/m365-guardian) over Microsoft Graph, a self-improving [intake-form extraction pipeline](https://github.com/marky224/intake-form-ai-pipeline) with model cascade and eval harness, [LLM-enriched threat-intel ETL](https://github.com/marky224/Threat-Intel-ETL), and a real-time [fleet ops console](https://github.com/marky224/aerial-fleet-monitor) that triages anomalies with Agentforce.
+Systems Engineer who works **cross-functionally to find the real problem**, then builds the **systems integrations, automations, and data dashboards** that boost team productivity — increasingly **AI-enabled**. Years in the weeds across Microsoft, networking, cloud, and security, with **measurable hour-reductions on real workflows** and the **documentation discipline that makes the fix stick the second time**.
 
 ---
 
@@ -38,25 +29,40 @@ Systems Engineer who works **cross-functionally to find the real problem**, then
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-29ABE2?style=flat-square&logo=ubiquiti&logoColor=white) ![DNS](https://img.shields.io/badge/-DNS-0078D6?style=flat-square&logo=windows&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN-0081C6?style=flat-square&logo=wireguard&logoColor=white) ![RMM](https://img.shields.io/badge/-RMM-00C4B4?style=flat-square&logo=manageiq&logoColor=white)
 
 **Cloud Platforms & Tools:**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Agentforce](https://img.shields.io/badge/-Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Palantir Foundry](https://img.shields.io/badge/-Palantir%20Foundry-101113?style=flat-square&logo=palantir&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Palantir Foundry](https://img.shields.io/badge/-Palantir%20Foundry-101113?style=flat-square&logo=palantir&logoColor=white)
+
+**Data Stack:**  
+![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694A?style=flat-square&logo=dbt&logoColor=white) ![Evidence.dev](https://img.shields.io/badge/-Evidence.dev-5B6BFC?style=flat-square) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 **Cybersecurity:**  
 ![CompTIA CySA+](https://img.shields.io/badge/-CySA+-2A3B8F?style=flat-square&logo=comptia&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/-Security+-2A3B8F?style=flat-square&logo=comptia&logoColor=white) ![SIEM](https://img.shields.io/badge/-SIEM-2C3E50?style=flat-square) ![EDR](https://img.shields.io/badge/-EDR-2C3E50?style=flat-square) ![Threat Intel](https://img.shields.io/badge/-Threat%20Intel-2C3E50?style=flat-square)
 
 **AI & Agents:**  
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=xai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat-square&logo=ai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8B5CF6?style=flat-square&logo=ai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=xai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Agentforce](https://img.shields.io/badge/-Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat-square&logo=ai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8B5CF6?style=flat-square&logo=ai&logoColor=white)
 
 ---
 
 ## 📌 Featured Work
 
-- **[aerial-fleet-monitor](https://github.com/marky224/aerial-fleet-monitor)** — Real-time aviation fleet operations console. Ingests public US flight telemetry, detects anomalies as Salesforce Cases, triages them with Agentforce, and surfaces operations through a Foundry-hosted dashboard.
-- **[intake-form-ai-pipeline](https://github.com/marky224/intake-form-ai-pipeline)** — Self-improving intake-form extraction pipeline with a three-tier model cascade, BAA-aware routing for PHI handling, and an eval harness that demonstrates F1 improvement over time.
-- **[salesforce-langgraph-ai-lead-bot](https://github.com/marky224/salesforce-langgraph-ai-lead-bot)** — End-to-end AI lead qualification system. A LangGraph stateful agent (TARS) runs multi-turn conversations over SSE, scores prospects deterministically, and writes enriched Leads to Salesforce — where an Agentforce agent drafts follow-up tasks, emails, and opportunities. Powers the chat assistant on my [portfolio](https://markandrewmarquez.com/).
+### 🏗️ Infrastructure & Identity
+
+- **[windows-ad-ansible-kvm](https://github.com/marky224/windows-ad-ansible-kvm)** — Production-quality MSP-style Active Directory lab on KVM/libvirt, fully automated with Ansible. From bare Ubuntu host to live forest in ~60 minutes: Server 2025 DC (AD DS, DNS, DHCP, AD CS, NTP, WSUS), Win 11 Enterprise clients, Ubuntu member server, slipstreamed install ISO, SCT GPO baselines, idempotent roles, nightly state backups.
 - **[m365-guardian](https://github.com/marky224/m365-guardian)** — Diagnoses and remediates common M365 admin issues (password resets, MFA enforcement, license drift, dormant accounts) via Microsoft Graph. Includes a weekly automated security health report with 10 checks.
-- **[api-medic](https://github.com/marky224/api-medic)** — An HTTP API troubleshooting tool. Takes a URL, HAR file, or `curl` command and runs network, TLS, auth, and protocol checks, producing a structured report with plain-language findings and suggested fixes. Live as a [web app](https://api-medic.markandrewmarquez.com/), a Chrome extension, and a CLI.
+
+### ☁️ Cloud, Data & Observability
+
+- **[cyber-threat-pipeline](https://github.com/marky224/cyber-threat-pipeline)** — Modern-data-stack threat-intelligence platform. AlienVault OTX → Neon Postgres → dbt → two live public surfaces (Evidence.dev for analysis, Grafana Cloud for observability), with an LLM analyst brief on top. Rebuilt weekly by a single GitHub Actions cron. Full Terraform + OIDC; no static AWS keys.
 - **[cloudwatch-monitor](https://github.com/marky224/cloudwatch-monitor)** — Multi-endpoint AWS synthetic monitoring with per-endpoint alarms, SNS alerts, and a public status page. Fully managed via Terraform.
-- **[Threat-Intel-ETL](https://github.com/marky224/Threat-Intel-ETL)** — Automated ETL pipeline for AlienVault OTX threat intelligence. Extracts IoCs, transforms with Pandas, loads into PostgreSQL, visualizes in Splunk dashboards, and generates deeper insights using Grok and Claude.
+
+### 🔧 Tools & Diagnostics
+
+- **[api-medic](https://github.com/marky224/api-medic)** — An HTTP API troubleshooting tool. Takes a URL, HAR file, or `curl` command and runs network, TLS, auth, and protocol checks, producing a structured report with plain-language findings and suggested fixes. Live as a [web app](https://api-medic.markandrewmarquez.com/), a Chrome extension, and a CLI.
+
+### 🤖 AI Agents in Production
+
+- **[salesforce-langgraph-ai-lead-bot](https://github.com/marky224/salesforce-langgraph-ai-lead-bot)** — End-to-end AI lead qualification system. A LangGraph stateful agent (TARS) runs multi-turn conversations over SSE, scores prospects deterministically, and writes enriched Leads to Salesforce — where an Agentforce agent drafts follow-up tasks, emails, and opportunities. Powers the chat assistant on my [portfolio](https://markandrewmarquez.com/).
+- **[intake-form-ai-pipeline](https://github.com/marky224/intake-form-ai-pipeline)** — Self-improving intake-form extraction pipeline with a three-tier model cascade, BAA-aware routing for PHI handling, and an eval harness that demonstrates F1 improvement over time.
+- **[aerial-fleet-monitor](https://github.com/marky224/aerial-fleet-monitor)** — Real-time aviation fleet operations console. Ingests public US flight telemetry, detects anomalies as Salesforce Cases, triages them with Agentforce, and surfaces operations through a Foundry-hosted dashboard.
 
 📂 Full project list: [Repositories](https://github.com/marky224?tab=repositories) · 🌐 Case studies & writeups: [markandrewmarquez.com/#portfolio](https://markandrewmarquez.com/#portfolio)
 
