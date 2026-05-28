@@ -53,13 +53,25 @@ Systems Engineer who works **cross-functionally to find the real problem**, then
 
 ## 📌 Featured Work
 
-- **[aerial-fleet-monitor](https://github.com/marky224/aerial-fleet-monitor)** — Real-time aviation fleet operations console. Ingests public US flight telemetry, detects anomalies as Salesforce Cases, triages them with Agentforce, and surfaces operations through a Foundry-hosted dashboard.
-- **[intake-form-ai-pipeline](https://github.com/marky224/intake-form-ai-pipeline)** — Self-improving intake-form extraction pipeline with a three-tier model cascade, BAA-aware routing for PHI handling, and an eval harness that demonstrates F1 improvement over time.
-- **[salesforce-langgraph-ai-lead-bot](https://github.com/marky224/salesforce-langgraph-ai-lead-bot)** — End-to-end AI lead qualification system. A LangGraph stateful agent (TARS) runs multi-turn conversations over SSE, scores prospects deterministically, and writes enriched Leads to Salesforce — where an Agentforce agent drafts follow-up tasks, emails, and opportunities. Powers the chat assistant on my [portfolio](https://markandrewmarquez.com/).
+### 🏗️ Infrastructure & Identity
+
+- **[windows-ad-ansible-kvm](https://github.com/marky224/windows-ad-ansible-kvm)** — Production-quality MSP-style Active Directory lab on KVM/libvirt, fully automated with Ansible. From bare Ubuntu host to live forest in ~60 minutes: Server 2025 DC (AD DS, DNS, DHCP, AD CS, NTP, WSUS), Win 11 Enterprise clients, Ubuntu member server, slipstreamed install ISO, SCT GPO baselines, idempotent roles, nightly state backups.
 - **[m365-guardian](https://github.com/marky224/m365-guardian)** — Diagnoses and remediates common M365 admin issues (password resets, MFA enforcement, license drift, dormant accounts) via Microsoft Graph. Includes a weekly automated security health report with 10 checks.
-- **[api-medic](https://github.com/marky224/api-medic)** — An HTTP API troubleshooting tool. Takes a URL, HAR file, or `curl` command and runs network, TLS, auth, and protocol checks, producing a structured report with plain-language findings and suggested fixes. Live as a [web app](https://api-medic.markandrewmarquez.com/), a Chrome extension, and a CLI.
+
+### ☁️ Cloud, Data & Observability
+
+- **[cyber-threat-pipeline](https://github.com/marky224/cyber-threat-pipeline)** — Modern-data-stack threat-intelligence platform. AlienVault OTX → Neon Postgres → dbt → two live public surfaces (Evidence.dev for analysis, Grafana Cloud for observability), with an LLM analyst brief on top. Rebuilt weekly by a single GitHub Actions cron. Full Terraform + OIDC; no static AWS keys.
 - **[cloudwatch-monitor](https://github.com/marky224/cloudwatch-monitor)** — Multi-endpoint AWS synthetic monitoring with per-endpoint alarms, SNS alerts, and a public status page. Fully managed via Terraform.
-- **[Threat-Intel-ETL](https://github.com/marky224/Threat-Intel-ETL)** — Automated ETL pipeline for AlienVault OTX threat intelligence. Extracts IoCs, transforms with Pandas, loads into PostgreSQL, visualizes in Splunk dashboards, and generates deeper insights using Grok and Claude.
+
+### 🔧 Tools & Diagnostics
+
+- **[api-medic](https://github.com/marky224/api-medic)** — An HTTP API troubleshooting tool. Takes a URL, HAR file, or `curl` command and runs network, TLS, auth, and protocol checks, producing a structured report with plain-language findings and suggested fixes. Live as a [web app](https://api-medic.markandrewmarquez.com/), a Chrome extension, and a CLI.
+
+### 🤖 AI Agents in Production
+
+- **[salesforce-langgraph-ai-lead-bot](https://github.com/marky224/salesforce-langgraph-ai-lead-bot)** — End-to-end AI lead qualification system. A LangGraph stateful agent (TARS) runs multi-turn conversations over SSE, scores prospects deterministically, and writes enriched Leads to Salesforce — where an Agentforce agent drafts follow-up tasks, emails, and opportunities. Powers the chat assistant on my [portfolio](https://markandrewmarquez.com/).
+- **[intake-form-ai-pipeline](https://github.com/marky224/intake-form-ai-pipeline)** — Self-improving intake-form extraction pipeline with a three-tier model cascade, BAA-aware routing for PHI handling, and an eval harness that demonstrates F1 improvement over time.
+- **[aerial-fleet-monitor](https://github.com/marky224/aerial-fleet-monitor)** — Real-time aviation fleet operations console. Ingests public US flight telemetry, detects anomalies as Salesforce Cases, triages them with Agentforce, and surfaces operations through a Foundry-hosted dashboard.
 
 📂 Full project list: [Repositories](https://github.com/marky224?tab=repositories) · 🌐 Case studies & writeups: [markandrewmarquez.com/#portfolio](https://markandrewmarquez.com/#portfolio)
 
