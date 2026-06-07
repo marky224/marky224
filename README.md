@@ -16,7 +16,7 @@ Systems Engineer who works **cross-functionally to find the real problem**, then
 
 ## 🧰 Skills
 
-Troubleshooting, Diagnostics & Documentation · Data Engineering & Data Dashboards · Systems Integrations & Automation · Systems & Cloud · Networking & Cybersecurity · AI Agents & Workflows
+Troubleshooting, Diagnostics & Documentation · Data Engineering & Data Dashboards · Systems Integrations & Automation · Infrastructure, Virtualization & Cloud · Networking & Cybersecurity · AI Agents & Workflows
 
 Full breakdown on my [website](https://www.markandrewmarquez.com/#skills).
 
@@ -36,8 +36,11 @@ Full breakdown on my [website](https://www.markandrewmarquez.com/#skills).
 **Networking & Infrastructure:**  
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-29ABE2?style=flat-square&logo=ubiquiti&logoColor=white) ![DNS](https://img.shields.io/badge/-DNS-0078D6?style=flat-square&logo=windows&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN-0081C6?style=flat-square&logo=wireguard&logoColor=white) ![RMM](https://img.shields.io/badge/-RMM-00C4B4?style=flat-square&logo=manageiq&logoColor=white)
 
+**Automation & Virtualization:**  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Virtualization](https://img.shields.io/badge/-Virtualization-FF6600?style=flat-square&logo=qemu&logoColor=white)
+
 **Cloud Platforms & Tools:**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Palantir Foundry](https://img.shields.io/badge/-Palantir%20Foundry-101113?style=flat-square&logo=palantir&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Palantir Foundry](https://img.shields.io/badge/-Palantir%20Foundry-101113?style=flat-square&logo=palantir&logoColor=white)
 
 **Data Stack:**  
 ![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694A?style=flat-square&logo=dbt&logoColor=white) ![Evidence.dev](https://img.shields.io/badge/-Evidence.dev-5B6BFC?style=flat-square) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -54,7 +57,7 @@ Full breakdown on my [website](https://www.markandrewmarquez.com/#skills).
 
 ### 🏗️ Infrastructure & Identity
 
-- **[windows-ad-ansible-kvm](https://github.com/marky224/windows-ad-ansible-kvm)** — Production-quality MSP-style Active Directory lab on KVM/libvirt, fully automated with Ansible. From bare Ubuntu host to live forest in ~60 minutes: Server 2025 DC (AD DS, DNS, DHCP, AD CS, NTP, WSUS), Win 11 Enterprise clients, Ubuntu member server, slipstreamed install ISO, SCT GPO baselines, idempotent roles, nightly state backups.
+- **[windows-ad-ansible-kvm](https://github.com/marky224/windows-ad-ansible-kvm)** — Production-quality, **two-site** MSP-style Active Directory forest on KVM/libvirt, fully automated with Ansible (23 idempotent roles). Bare ISOs → live multi-site forest in ~60–75 min: an HQ Server 2025 DC (AD DS, DNS, DHCP, AD CS, NTP, WSUS) plus a **replica DC/GC at an isolated branch** over a VyOS-routed ~40 ms WAN — with **cross-site replication, hot-standby DHCP failover, and option-121 routing** — plus **rehearsed DR drills** (live failover + isolated FSMO-seize).
 - **[m365-guardian](https://github.com/marky224/m365-guardian)** — Diagnoses and remediates common M365 admin issues (password resets, MFA enforcement, license drift, dormant accounts) via Microsoft Graph. Includes a weekly automated security health report with 10 checks.
 
 ### ☁️ Cloud, Data & Observability
